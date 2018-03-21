@@ -1,0 +1,19 @@
+#letter {
+  display: none;
+  padding: 1.5em 1em;
+  line-height: 20px;
+  text-align: justify;
+}
+.letter {
+  border: 5px lightblue solid;
+  background-color: tan;
+}
+.col-md-4 {
+  border-right: 3px black solid;
+}
+.row {
+  margin: auto 10%;
+}
+img {
+  height: 200px;
+}
